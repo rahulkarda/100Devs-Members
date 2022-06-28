@@ -11,6 +11,7 @@
 - ### **I**
 - ### **J**
 - ### **K**
+    - [Kathleen Jogno](https://github.com/redKath)
 - ### **L**
 - ### **M**
 - ### **N**
