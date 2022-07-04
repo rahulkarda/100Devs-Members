@@ -3,6 +3,7 @@
 - ### **A**
 - ### **B**
 - ### **C**
+  - [Catherine Chukwu](https://github.com/kjcatherine)
 - ### **D**
 - ### **E**
 - ### **F**
@@ -11,7 +12,7 @@
 - ### **I**
 - ### **J**
 - ### **K**
-    - [Kathleen Jogno](https://github.com/redKath)
+  - [Kathleen Jogno](https://github.com/redKath)
 - ### **L**
 - ### **M**
 - ### **N**
@@ -19,9 +20,9 @@
 - ### **P**
 - ### **Q**
 - ### **R**
-    - [Rahul Karda](https://github.com/rahulkarda)
+  - [Rahul Karda](https://github.com/rahulkarda)
 - ### **S**
-    - [Sienna Lind](https://github.com/siennalind)
+  - [Sienna Lind](https://github.com/siennalind)
 - ### **T**
 - ### **U**
 - ### **V**
