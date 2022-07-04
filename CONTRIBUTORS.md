@@ -21,6 +21,7 @@
 - ### **R**
     - [Rahul Karda](https://github.com/rahulkarda)
 - ### **S**
+    - [Sienna Lind](https://github.com/siennalind)
 - ### **T**
 - ### **U**
 - ### **V**
