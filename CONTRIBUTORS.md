@@ -11,6 +11,7 @@
 - ### **H**
 - ### **I**
 - ### **J**
+  - [John Garcia](https://github.com/almostJohn)
 - ### **K**
   - [Kathleen Jogno](https://github.com/redKath)
 - ### **L**
